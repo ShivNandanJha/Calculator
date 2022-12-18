@@ -141,7 +141,7 @@ body {
 .footer {
   position: fixed;
   justify-content: flex-start;
-  bottom: 80px;
+  bottom: 50px;
   color: #2196f3;
 }
 .footer a{
