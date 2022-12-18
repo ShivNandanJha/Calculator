@@ -139,9 +139,10 @@ body {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1), -5px -5px 10px #fff;
 }
 .footer {
-  position: fixed;
+  position: absolute;
   justify-content: flex-start;
-  bottom: 50px;
+  align-items: end;
+  bottom: 10px;
   color: #2196f3;
 }
 .footer a{
